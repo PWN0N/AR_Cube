@@ -1,4 +1,0 @@
-/home/jonathan/Software/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/jonathan/CLionProjects/AR_Cube
--- Configuring done
--- Generating done
--- Build files have been written to: /home/jonathan/CLionProjects/AR_Cube/cmake-build-debug
